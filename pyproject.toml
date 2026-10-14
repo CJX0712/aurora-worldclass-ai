@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "aurora-ai"
+version = "0.1.0"
+description = "Aurora —— 晨星锻造的世界顶级 AI 系统：MLA + GDN + SWA 混合注意力，DeepSeekMoE，MTP 自投机，MuonClip 优化器，CPU 可跑可验证。"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "晨星", email = "CJX0712@users.noreply.github.com" }]
+keywords = ["ai", "llm", "mla", "gated-deltanet", "moe", "mtp", "muon", "inference-engine"]
+dependencies = ["torch>=2.0"]
+
+[project.urls]
+Homepage = "https://github.com/CJX0712/aurora"
+Repository = "https://github.com/CJX0712/aurora"
+
+[tool.setuptools.packages.find]
+include = ["aurora*"]
