@@ -1,5 +1,12 @@
 # Aurora · 晨星锻造的世界顶级 AI 系统
 
+<div align="center">
+
+[![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/CJX0712/aurora-worldclass-ai/blob/main/LICENSE) [![Language](https://img.shields.io/badge/Python-3776AB?logo=python)](https://github.com/CJX0712/aurora-worldclass-ai) [![Verified](https://img.shields.io/badge/invariants-verified-brightgreen)](https://github.com/CJX0712) [![Author](https://img.shields.io/badge/author-晨星-blueviolet)](https://github.com/CJX0712)
+
+</div>
+
+
 > **Aurora** 是一个从数学基础到前沿大模型**全栈自洽**的 AI 系统实现：把 2024–2026 年最具代表性的架构创新（DeepSeek-V3 的 MLA、Kimi K2 的 QK-Clip、Gated DeltaNet 的线性注意力、DeepSeekMoE 的细粒度专家、MTP 自投机解码、MuonClip 优化器）收敛进**一套可插拔、可验证、CPU 可跑**的代码底座。
 >
 > 作者：**晨星** · 目标：锻造架构最先进、性能最强、代码最优、文档最全的世界级 AI，完整开源。
