@@ -11,11 +11,11 @@ requires-python = ">=3.10"
 license = { text = "MIT" }
 authors = [{ name = "晨星", email = "CJX0712@users.noreply.github.com" }]
 keywords = ["ai", "llm", "mla", "gated-deltanet", "moe", "mtp", "muon", "inference-engine"]
-dependencies = ["torch>=2.0"]
+dependencies = ["torch>=2.0", "numpy>=1.24"]
 
 [project.urls]
-Homepage = "https://github.com/CJX0712/aurora"
-Repository = "https://github.com/CJX0712/aurora"
+Homepage = "https://github.com/CJX0712/aurora-worldclass-ai"
+Repository = "https://github.com/CJX0712/aurora-worldclass-ai"
 
 [tool.setuptools.packages.find]
 include = ["aurora*"]
